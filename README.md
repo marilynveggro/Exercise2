@@ -1,2 +1,2 @@
 # Exercise2
-calculator
+creating a calculator. Learning
